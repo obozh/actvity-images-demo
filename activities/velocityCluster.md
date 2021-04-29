@@ -1,3 +1,8 @@
+## Original image size:
+##![Image original size](img/pikachu.jpg)
+
+## Original image size:
+##![Image original size](img/pikacchu.jpg)
 
 ## Image with width 300 and height 150:
 
