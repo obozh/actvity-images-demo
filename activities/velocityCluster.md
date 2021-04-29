@@ -1,39 +1,20 @@
-# Example of images inside markdown:
-
-
-
 ## Original image size:
+pikachu ![Image original size](img/pikachu.jpg)
+## Original image size:
+not pikachu ![Image original size](img/large_picture.jpg)
+## Original image size:
+##![Image original size](img/pikacchu.jpg)
+
+## Image with width 300 and height 150:
 
 
-##![Image original size](img/image.jpg)
-
-
-## Image with width 200:
-
-
-##![Image set width 1](img/image.jpg=200x)
-
-
-## Image with width 1500:
-
-
-##![Image set width 2](img/image.jpg=1500x)
+![Image set width and height 1](img/image.jpg=x1000)
 
 
 ## Image with width 300 and height 150:
 
 
-![Image set width and height 1](img/image.jpg=0300x150)
+![](img/image.jpg=150)
 
 
-## Image with width 300 and height 150:
-
-
-![Image set width and height 1](img/image.jpg=300x150)
-
-
-## Image with width 2000 and height 1000:
-
-
-##![Image set width and height 2](img/image.jpg=2000x1000)
 
