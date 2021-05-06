@@ -1,6 +1,6 @@
 {
-   "name":"1abcq23",
-   "shortDescription": "no weight",
+   "name":"Test1",
+   "shortDescription": "capital",
    "icon":"velocityCluster.svg",
    "descriptionMarkdown":"velocityCluster.md",
    "topology": [{
