@@ -1,9 +1,9 @@
 {
-   "name":"Activity with pictures",
-   "shortDescription": "Demonstrate setting size of pictures in markdown",
+   "name":"shmactivities",
+   "shortDescription": "weight 0",
    "icon":"velocityCluster.svg",
    "descriptionMarkdown":"velocityCluster.md",
-   "weight": 1,
+   "weight": 0,
    "topology": [{
 	   "name": "Velocity Cluster",
 	   "actionTitle":"Reserve",

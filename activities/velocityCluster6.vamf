@@ -1,0 +1,14 @@
+{
+   "name":"test1",
+   "shortDescription": "lowercase",
+   "icon":"velocityCluster.svg",
+   "descriptionMarkdown":"velocityCluster.md",
+   "topology": [{
+	   "name": "Velocity Cluster",
+	   "actionTitle":"Reserve",
+	   "description": "Immidiate reservation of two VMs Velocity VM and VDS VM",
+	   "reservationDuration":"60",
+	   "automation": [],
+	   "interaction":[]
+    }]
+}
