@@ -1,9 +1,9 @@
 {
    "name":"Activity with pictures",
-   "shortDescription": "weight 0101",
+   "shortDescription": "weight 01",
    "icon":"velocityCluster.svg",
    "descriptionMarkdown":"velocityCluster.md",
-   "weight": 101,
+   "weight": 01,
    "topology": [{
 	   "name": "Velocity Cluster",
 	   "actionTitle":"Reserve",
