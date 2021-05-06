@@ -3,7 +3,7 @@
    "shortDescription": "weight 0101",
    "icon":"velocityCluster.svg",
    "descriptionMarkdown":"velocityCluster.md",
-   "weight": 0101,
+   "weight": 101,
    "topology": [{
 	   "name": "Velocity Cluster",
 	   "actionTitle":"Reserve",
