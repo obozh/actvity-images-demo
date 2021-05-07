@@ -1,6 +1,6 @@
 {
-   "name":"Activity with pictures",
-   "shortDescription": "Demonstrate setting size of pictures in markdown",
+   "name":"just_test",
+   "shortDescription": "just_test",
    "icon":"velocityCluster.svg",
    "descriptionMarkdown":"velocityCluster.md",
    "topology": [{
