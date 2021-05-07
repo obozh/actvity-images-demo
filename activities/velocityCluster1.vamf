@@ -3,7 +3,7 @@
    "shortDescription": "Demonstrate setting size of pictures in markdown",
    "icon":"velocityCluster.svg",
    "descriptionMarkdown":"velocityCluster.md",
-   "weight": 01,
+   "weight": 1,
    "topology": [{
 	   "name": "Velocity Cluster",
 	   "actionTitle":"Reserve",
