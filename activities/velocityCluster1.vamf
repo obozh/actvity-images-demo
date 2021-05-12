@@ -1,5 +1,5 @@
 {
-   "name":"Activity with pictures #2",
+   "name":"Activity with pictures",
    "shortDescription": "Demonstrate setting size of pictures in markdown",
    "icon":"velocityCluster.svg",
    "descriptionMarkdown":"velocityCluster.md",
