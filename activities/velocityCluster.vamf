@@ -1,9 +1,9 @@
 {
-   "name":"Activity with pictures",
-   "shortDescription": "Demonstrate setting size of pictures in markdown",
+   "name":"Activity with weight 01",
+   "shortDescription": "Activity to test weight 01",
    "icon":"velocityCluster.svg",
    "descriptionMarkdown":"velocityCluster.md",
-   "weight": 1,
+   "weight": 01,
    "topology": [{
 	   "name": "Velocity Cluster",
 	   "actionTitle":"Reserve",
